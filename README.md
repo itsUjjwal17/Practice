@@ -1,2 +1,2 @@
 # Practice
-These repo is basically of my practice codes or leisure time codes
+This repo is basically of my practice or leisure time codes
